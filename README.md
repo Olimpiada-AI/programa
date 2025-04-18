@@ -1,18 +1,18 @@
 # Programa pentru Olimpiada de Inteligență Artificială
 
-### Clasele IX-XII, liceu
+#### Clasele IX-XII, liceu
 
 
 ## Etapa județeană
 
 1. Utilizarea limbajului Python
 
-  - Tipuri de date [[1](https://www.geeksforgeeks.org/python-data-types/)] [[2](https://www.w3schools.com/python/python_datatypes.asp)] [[3](https://realpython.com/python-data-types/)]
-  - Structuri liniare, repetitive [[1](https://www.geeksforgeeks.org/loops-in-python/)] [[2](https://www.w3schools.com/python/python_while_loops.asp )] [[3](https://www.w3schools.com/python/python_for_loops.asp )] și de decizie [[1](https://www.geeksforgeeks.org/conditional-statements-in-python/)] [[2](https://www.w3schools.com/python/python_conditions.asp )]
-  - Tablouri bidimensionale [[1](https://www.geeksforgeeks.org/python-arrays/)] [[2](https://www.w3schools.com/python/python_arrays.asp)] și liste [[1](https://www.geeksforgeeks.org/python-lists/)] [[2](https://www.w3schools.com/python/python_lists.asp )] [[3](https://realpython.com/python-data-structures/)]
-  - Funcții [[1](https://www.geeksforgeeks.org/python-functions/)] [[2](https://www.w3schools.com/python/python_functions.asp)]
-  - Clase [[1](https://www.geeksforgeeks.org/python-classes-and-objects/)] [[2](https://www.w3schools.com/python/python_classes.asp )]
-  - Citire, prelucrare și afișare: fișiere text [[1](https://www.geeksforgeeks.org/file-handling-python/)] [[2](https://www.w3schools.com/python/python_file_handling.asp)] [[3](https://www.w3schools.com/python/python_file_open.asp )], fișiere tip csv [[1](https://www.geeksforgeeks.org/working-csv-files-python/)], imagini [[1](https://www.geeksforgeeks.org/working-images-python/)]
+- Tipuri de date [[1](https://www.geeksforgeeks.org/python-data-types/)] [[2](https://www.w3schools.com/python/python_datatypes.asp)] [[3](https://realpython.com/python-data-types/)]
+- Structuri liniare, repetitive [[1](https://www.geeksforgeeks.org/loops-in-python/)] [[2](https://www.w3schools.com/python/python_while_loops.asp )] [[3](https://www.w3schools.com/python/python_for_loops.asp )] și de decizie [[1](https://www.geeksforgeeks.org/conditional-statements-in-python/)] [[2](https://www.w3schools.com/python/python_conditions.asp )]
+- Tablouri bidimensionale [[1](https://www.geeksforgeeks.org/python-arrays/)] [[2](https://www.w3schools.com/python/python_arrays.asp)] și liste [[1](https://www.geeksforgeeks.org/python-lists/)] [[2](https://www.w3schools.com/python/python_lists.asp )] [[3](https://realpython.com/python-data-structures/)]
+- Funcții [[1](https://www.geeksforgeeks.org/python-functions/)] [[2](https://www.w3schools.com/python/python_functions.asp)]
+- Clase [[1](https://www.geeksforgeeks.org/python-classes-and-objects/)] [[2](https://www.w3schools.com/python/python_classes.asp )]
+- Citire, prelucrare și afișare: fișiere text [[1](https://www.geeksforgeeks.org/file-handling-python/)] [[2](https://www.w3schools.com/python/python_file_handling.asp)] [[3](https://www.w3schools.com/python/python_file_open.asp )], fișiere tip csv [[1](https://www.geeksforgeeks.org/working-csv-files-python/)], imagini [[1](https://www.geeksforgeeks.org/working-images-python/)]
 
 2. Elemente de bază în Inteligența Artificială
 
