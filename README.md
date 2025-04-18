@@ -59,6 +59,8 @@
 
 - Rețele neurale convoluționale (*Convolutional Neural Networks* - CNN)
 
+`- - -`
+
 ### Note
 
 - Barajele de selecție a lotului național vor include programele pentru clasele IX-XII.
