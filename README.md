@@ -67,5 +67,5 @@
 
 ### Îndrumare pentru pregătire
 
-- Platforma de evaluare va fi disponibilă pe parcursul anului pentru a facilita familiarizarea elevilor cu formatul concursului. Recomandăm concurenților să își creeze cont și să rezolve problemele puse la dispoziție până la data olimpiadei.
-- O serie de materiale de pregătire pentru toate etapele va fi disponibilă pe [olimpiada-ai.ro](https://olimpiada-ai.ro/), secțiunea “Resurse”.
+- Platforma de evaluare [Nitro AI Judge](https://judge.nitro-ai.org) este disponibilă pe parcursul anului pentru a facilita familiarizarea elevilor cu formatul concursului. Recomandăm concurenților să își creeze cont și să rezolve problemele puse la dispoziție până la data olimpiadei.
+- O serie de materiale de pregătire pentru toate etapele este disponibilă în pagina de resurse de pe siteul olimpiadei [olimpiada-ai.ro](https://olimpiada-ai.ro/resources).
