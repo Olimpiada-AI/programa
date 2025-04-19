@@ -2,8 +2,9 @@
 
 #### Clasele IX-XII, liceu
 
-
 ## Etapa județeană
+
+La finalul fiecărei tematici din programă, aveți câteva **linkuri** (în paranteze drepte [_link_]) cu informații de bază despre conceptele propuse.
 
 1. Utilizarea limbajului Python
 
@@ -68,4 +69,4 @@
 ### Îndrumare pentru pregătire
 
 - Platforma de evaluare [Nitro AI Judge](https://judge.nitro-ai.org) este disponibilă pe parcursul anului pentru a facilita familiarizarea elevilor cu formatul concursului. Recomandăm concurenților să își creeze cont și să rezolve problemele puse la dispoziție până la data olimpiadei.
-- O serie de materiale de pregătire pentru toate etapele este disponibilă în pagina de resurse de pe siteul olimpiadei [olimpiada-ai.ro](https://olimpiada-ai.ro/resources).
+- Materiale de pregătire pentru toate etapele sunt disponibile în pagina de resurse de pe siteul olimpiadei [olimpiada-ai.ro](https://olimpiada-ai.ro/resources).
